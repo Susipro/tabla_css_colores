@@ -1,0 +1,215 @@
+
+html {
+
+	background-image: url(https://cdn.pixabay.com/photo/2016/11/29/01/51/wood-1866654_960_720.jpg);
+	background-size: cover;
+
+}
+
+
+h1 {
+
+	font-size: 50px;
+	text-align: center;
+	margin-top:40px;
+}
+
+
+.container {
+
+	margin-top: 100px;
+	margin:auto;
+	margin-top: 100px;
+	width: 600px;
+	height: 200px;
+	background-color:  green;
+	margin-bottom: 30px;
+	margin-top: 30px;
+text-align: left;
+
+}
+
+
+.green { 
+
+	width: 600px;
+	height: 50px;
+	background-color: green;
+	text-align: center;
+
+}
+
+
+.black1 {
+
+	width:100px;
+	height: 50px;
+	background: black;
+	text-align: left;
+	position: absolute;
+}
+
+
+.teal {
+
+	width:100px;
+	height: 50px;
+	background: teal;
+	margin-left: 100px;
+	position: absolute;
+
+}
+
+
+.blue {
+
+	width:100px;
+	height: 50px;
+	background: blue;
+	margin-left: 200px;
+	position: absolute;
+}
+
+.navy {
+
+	width:60px;
+	height: 50px;
+	background: navy;
+	margin-left: 300px;
+	position: absolute;
+}
+
+
+.lime{
+
+	width:180px;
+	height: 50px;
+	background: lime;
+	margin-left:360px;
+	position: absolute;
+}
+
+
+.white {
+
+	width:60px;
+	height: 50px;
+	background: white;
+	margin-left:540px;
+	
+}
+
+
+.purple {
+
+	width:100px;
+	height: 50px;
+	background:purple;
+	position: absolute;
+
+}
+
+
+.yellow {
+
+	width:100px;
+	height: 50px;
+	background: yellow;
+	margin-left: 100px;
+	position: absolute;
+
+}
+
+
+.olive1 {
+
+	width:100px;
+	height: 50px;
+	background: olive;
+	margin-left: 200px;
+	text-align: left;
+	position: absolute;
+}
+
+
+.red1 {
+
+	width:60px;
+	height: 50px;
+	background: red;
+	margin-left: 300px;
+	position: absolute;
+}
+
+
+.black2 {
+
+	width:180px;
+	height: 50px;
+	background: black;
+	margin-left: 360px;
+	position: absolute;
+}
+
+
+.grey {
+
+	width:60px;
+	height: 50px;
+	background: grey;
+	margin-left: 540px;
+	text-align: left;
+	
+}
+
+
+.olive2 {
+
+	width: 100px;
+	height: 50px;
+	background-color: olive;
+	position: absolute;
+
+}
+
+
+.red2 {
+
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	margin-left: 100px;
+	position: absolute;
+
+}	
+
+
+.fuchsia {
+
+	width: 100px;
+	height: 50px;
+	background-color: fuchsia;
+	margin-left: 200px;
+	position: absolute;
+
+}
+
+
+.green2 {
+
+	width: 300px;
+	height: 50px;
+	background: green;
+	margin-left: 0px;
+
+	
+}
+
+footer {
+
+	text-align: center;
+	font-style: italic;
+	font-family: monospace;
+	font-size: 45px;
+
+}
